@@ -39,8 +39,8 @@ body {
   font-size: 100%; }
 
 body {
-  background: white;
-  color: #222222;
+  background: black;
+  color: #DCDCDC !important;
   padding: 0;
   margin: 0;
   font-family: "perfect_dos_vga_437regular";
@@ -1904,9 +1904,10 @@ meta.foundation-mq-topbar {
   border-style: solid;
   border-width: 1px;
   border-color: #d8d8d8;
+  color: #DCDCDC !important;
   margin-bottom: 1.25rem;
   padding: 1.25rem;
-  background: #f2f2f2; }
+  background: #DCDCDC; }
   .panel > :first-child {
     margin-top: 0; }
   .panel > :last-child {
@@ -2824,6 +2825,7 @@ a {
 p {
   font-family: inherit;
   font-weight: normal;
+  color: #DCDCDC; 
   font-size: 1rem;
   line-height: 1.6;
   margin-bottom: 1.25rem;
@@ -2841,7 +2843,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "perfect_dos_vga_437regular";
   font-weight: normal;
   font-style: normal;
-  color: #222222;
+  color: #DCDCDC;
   text-rendering: optimizeLegibility;
   margin-top: 0.2rem;
   margin-bottom: 0.5rem;
@@ -3038,7 +3040,7 @@ blockquote p {
 @media print {
   * {
     background: transparent !important;
-    color: black !important;
+    /* color: black !important; */
     /* Black prints faster: h5bp.com/s */
     box-shadow: none !important;
     text-shadow: none !important; }
@@ -3573,7 +3575,7 @@ dialog[open] {
     display: inline;
     margin-left: 1rem;
     margin-bottom: 0.625rem;
-    font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+    font-family: "perfect_dos_vga_437regular";
     font-weight: normal;
     font-size: 0.875rem;
     color: #999999; }
@@ -3755,7 +3757,7 @@ dialog[open] {
       right: auto; } }
 .label {
   font-weight: normal;
-  font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-family: "perfect_dos_vga_437regular";
   text-align: center;
   text-decoration: none;
   line-height: 1;
