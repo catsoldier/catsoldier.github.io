@@ -1,0 +1,14 @@
+
+/*custom dos font*/
+
+@font-face {
+    font-family: 'perfect_dos_vga_437regular';
+    src: url('fonts/dos/dos-webfont.eot');
+    src: url('fonts/dos/dos-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/dos/dos-webfont.woff') format('woff'),
+         url('fonts/dos/dos-webfont.ttf') format('truetype'),
+         url('fonts/dos/dos-webfont.svg#perfect_dos_vga_437regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
