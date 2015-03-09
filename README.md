@@ -2,7 +2,7 @@ Robbie Reaves
 ===============
  
 _967 Orient St / Chico, CA 95928_  
-_510-529-6415 / jnrbsn@gmail.com_
+_510-529-6415 / rreaves@gmail.com_
  
 Objective
 ---------
