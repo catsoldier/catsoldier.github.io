@@ -1,0 +1,118 @@
+{
+  "basics": {
+    "name": "Robbie Reaves",
+    "label": "Technical Project Manager",
+    "picture": "",
+    "email": "rreaves@gmail.com",
+    "phone": "510 529 6415",
+    "website": "https://catsoldier.com",
+    "summary": "Robbie is a project manager working at an e commerce company in northern california. he likes his job because it allows him to work with smart people on interesting projects. Right now he's working on prioritizing a jira backlog, but sometimes he goes to national parks. more often than not he's watching films and sometimes editing them.  ",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 95928",
+      "city": "Chico",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "catsoldier",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Build.com",
+      "position": "Technical Project Manager",
+      "website": "https://build.com",
+      "startDate": "2013-12-01",
+      "endDate": "2014-12-01",
+      "summary": "Build books about $1.2 million in revenue for each of its 500 employees. I work with a group of ~ 50 developers on a web application that serves our flagship site, as well as a host of other niche sites. We also support a full custom order management platform, a content publishing tool which can send json responses that look great on templates for any device, and a host of other small tools for managing the 800,000 or so products we sell. Recently we've on-boarded several new acquisitions onto our platform (including my favorite, kegerator.com)",
+      "highlights": [
+        "I oversee multiple projects across all phases of development concerning a flagship site and 19 other niche sites running on a node/java application. Marketing beacons, custom 3rd party integrations, reviews, article content, templates and landing pages.  ",
+        "Overseeing long and brutal platform migration from 13 year old legacy coldfusion codebase to a more modern node platform",
+        "Work as part of an interdisciplinary team to improve search relevancy and product recommendations.",
+        "Help to build shared consensus and foster decision-making across projects.",
+        "Collaborating with product managers to gather requirements,  manage expectations, and make better mistakes tomorrow ."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Chico State",
+      "area": "Computer science",
+      "studyType": "",
+      "startDate": "2011-06-01",
+      "endDate": "2014-01-01",
+      "gpa": "4.0",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Quarterly award",
+      "date": "2017-11-01",
+      "awarder": "build.com",
+      "summary": "There is no spoon."
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "General",
+      "level": "",
+      "keywords": [
+        "Collaborative leader",
+        "Keen eye for requirements gathering",
+        "",
+        "Knowledge of design and development",
+        ""
+      ]
+    },
+    {
+      "name": "Agile",
+      "level": "Scrum Master",
+      "keywords": [
+        "Process improvements",
+        "Requirements gathering",
+        "Retrospective facilitation",
+        "Backlog grooming",
+        "Sprint Planning & Review"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Bats",
+        "Dumbo Octopus",
+        "Cats",
+        "Jumping Spiders"
+      ]
+    },
+    {
+      "name": "National Parks",
+      "keywords": [
+        "Lassen",
+        "Olympic",
+        "Yosemite"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Trusted Coworker",
+      "reference": "It is my pleasure to recommend Robbie, his performance working as a project manager for Build.com proved that he will be a valuable addition to any company."
+    }
+  ]
+}
